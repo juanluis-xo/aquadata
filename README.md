@@ -30,3 +30,7 @@ Password: password
 - Encuestas sobre ODS 6
 - Retos mensuales
 - Chat con IA (simulado)
+
+## Autores
+Juan de la espriella pereira
+JJBP
