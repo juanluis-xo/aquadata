@@ -32,5 +32,5 @@ Password: password
 - Chat con IA (simulado)
 
 ## Autores
-Juan de la espriella pereira
-JJBP
+- Juan de la espriella pereira
+- JJBP
