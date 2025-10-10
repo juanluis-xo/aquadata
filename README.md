@@ -32,5 +32,7 @@ Password: password
 - Chat con IA (simulado)
 
 ## Autores
-- Juan de la espriella pereira
+- Juan Luis De La Espriella Pereira 
+- Jhon Garrido Guzman
+- Joan Cordoba 
 - JJBP
